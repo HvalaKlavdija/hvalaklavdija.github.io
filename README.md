@@ -1,2 +1,1 @@
-# hvalaklavdija.github.io
-HvalaKlavdija.si
+# HvalaKlavdija

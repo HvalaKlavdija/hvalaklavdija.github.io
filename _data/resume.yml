@@ -1,0 +1,83 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Hvala Klavdija"
+  label: "Učiteljica smučanja in plavanja"
+  picture: "/assets/img/logo.png"
+  email: "HvalaKlavdija.si@gmail.com"
+  phone: "+38651371064"
+  website: "https://HvalaKlavdija.si"
+  summary: >
+    Nahajamo se neposredno na smučišču na spodnji postaji šestsedežnice Stari vrh, zraven blagajne smučišča, kjer je tudi glavna blagajna za nakup smučarskih vozovnic.
+  location:
+    address: "STC Stari vrh - Sv. Lenart 51"
+    postalCode: "4227"
+    city: "Selca"
+    countryCode: "SI"
+    region: "Škofjeloški hribi"
+  profiles:
+    - network: "Instagram"
+      username: "HvalaKlavdija"
+      url: "https://www.instagram.com/HvalaKlavdija/"
+    - network: "Facebook"
+      username: "HvalaKlavdija"
+      url: "https://www.facebook.com/HvalaKlavdija"
+    - network: "YouTube"
+      username: "HvalaKlavdija"
+      url: "https://www.youtube.com/@hvalaklavdija"
+    - network: "Twitter"
+      username: "HvalaKlavdija"
+      url: "https://twitter.com/HvalaKlavdija"
+    - network: "LinkedIn"
+      username: "HvalaKlavdija"
+      url: "https://www.linkedin.com/in/hvalaklavdija/"
+work:
+  - company: "Hvala klavdija"
+    position: "Učiteljica smučanja in plavanja"
+    website: "https://HvalaKlavdija.si"
+    startDate: "2008-01-01"
+    endDate: ""
+    summary: >
+         Učiteljica smučanja Klaudia že 15 let resnično skrbi za to, kar počne, za ljudi, s katerimi to počne, za izkušnje in rezultate.   
+    highlights:
+      - "Šola smučanja za otroke"
+      - "Šola smučanja za odrasle"
+      - "Šola snowboarda"
+education:
+  - institution: "Univerza v Ljubljani"
+    area: "Fakulteta za šport"
+    studyType: "Magister"
+    startDate: "2013-10-10"
+    endDate: "2018-09-28"
+    gpa: "10/10"
+    courses:
+      - "Kakovostno delo z mlajšimi selekcijami nogometašic"
+awards:
+  - title: "Učiteljica leta 2023"
+    date: "2023-02-02"
+    awarder: "MT"
+    summary: "Najboljša učiteljica smučanja in deskanja na snegu"
+skills:
+  - name: "Psihologinja"
+    level: "Master"
+    keywords:
+      - "pogovor"
+      - "razumljivost"
+  - name: "Učiteljica"
+    level: "Master"
+    keywords:
+      - "prenos znanja"
+  - name: "Strokovnjakinja"
+    level: "Master"
+    keywords:
+      - "hitro prepoznavanje in reševanje težav"
+languages:
+  - language: "Angleški"
+    fluency: "Native speaker"
+  - language: "Slovenski"
+    fluency: "Native speaker"
+references:
+  - name: "MT"
+    reference: >
+      Imel sem srečo, da sem na prvi klic dobil prvo in edino ter najboljšega učiteljico smučanja.

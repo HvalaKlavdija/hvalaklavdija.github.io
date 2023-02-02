@@ -1,0 +1,168 @@
+# Strings
+# =======================================================================================
+# This file contains all soft-coded strings of the theme.
+# You can edit them here if you want to change the wording of certain phrases,
+# e.g. maybe you prefer "Fetching…" to "Loading…", etc.
+#
+# You can also use this to "translate" the theme into different langauges,
+# but note that this may not work in all situations,
+# especially for languages that differ significantly from English.
+
+# Free version
+# ---------------------------------------------------------------------------------------
+home:                  Domov
+pages:                 Strani
+posts:                 Objave
+about:                 O tem
+related_posts:         Sorodne objave
+other_projects:        Drugi
+comments:              Komentarji
+jump_to:               Skočiti
+navigation:            Navigacija
+social:                Socialno
+links:                 Links
+links_icon:            'icon-link'
+pagination:            Pagination
+newer:                 Novejši
+older:                 Starejši
+forward:               Naprej
+back:                  Nazaj
+permalink:             Permalink
+permalink_icon:        'content-hash'
+templates:             Predloge (za spletno aplikacijo)
+present:               do danes
+toc:                   Kazalo
+note:                  Opomba
+description:           Opis
+search:                Iskanje
+search_placeholder:    Vtipkajte nekaj…
+
+loading:               Nalaganje…
+redirecting:           Preusmerjanje…
+
+continue_reading:      >
+  Nadaljujte z branjem <!--post_title-->
+
+cookies_banner:
+  text:                >
+    Ta stran uporablja piškotke. [Politika Piškotkov](/politika-piskotkov/).
+  okay:                V redu
+
+not_found:
+  title:               '404: Stran ni najdena'
+  message:             |
+    Oprostite, ta URL smo založili ali pa kaže na nekaj, kar ne obstaja.
+    <!--home_link--> in ga znova poskusite najti.
+  home_link:           Pojdite nazaj
+
+offline:
+  title:               'Ste brez povezave'
+  message:             |
+    Oprostite, vendar izgleda, da ste brez povezave in ta stran ni bila pripravljena za ogled brez povezave.
+    <!--home_link--> da poskusite najti drugo stran.
+  home_link:           Pojdite nazaj
+
+error:
+  title:               Napaka
+  message:             |
+    Pri nalaganju je žal prišlo do napake <!--link-->.
+
+# Separators
+# ---------------------------------------------------------------------------------------
+posted:                'Posted'
+last_modified_at:      'Last modified at'
+last_modified_at_icon: 'icon-history'
+colon:                 ':'
+separator:             '|'
+category_start:        'in '
+category_spearator:    ' / '
+tag_start:             'on '
+tag_separator:         ', '
+from_to_separator:     '–'
+breadcrumbs_home:      'home'
+breadcrumbs_separator: '/'
+
+# Date formats
+# ---------------------------------------------------------------------------------------
+date_formats:
+  post:                '%d %b %Y'
+  last_modified_at:    '%Y-%m-%d'
+  related_post:        '%d %b %Y'
+  list_group_by:       '%Y'
+  list_entry:          '%d %b'
+  project:             '%Y'
+  projects_group_by:   '%Y'
+  resume:              '%b %Y'
+
+
+# PRO Version
+# ---------------------------------------------------------------------------------------
+# If you don't own the PRO version of Hydejack, modifying these will have no effect.
+
+tinyletter:
+  title:               Commercial break
+  label:               Email
+  placeholder:         Enter your email address
+  button:              Subscribe
+  message:             |
+    Pay the *iron price* for this theme by adding yourself to the mailing list.
+    Receive development updates, advanced tutorials,
+    and anything else I can come up with as it relates to **Hydejack**.
+
+    <!--form-->
+
+    No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
+    {:.faded}
+
+welcome:
+  more_projects:       Za več <!--projects_title--> glejte
+  more_posts:          Za več <!--posts_title--> glejte
+
+resume:
+  location:            Lokacija
+  location_separator:  ', '
+  email:               E-naslov
+  phone:               Telefon
+  website:             Spletna stran
+  work:                Izkušnje
+  work_title:          <!--position--> pri <!--company-->
+  highlights:          Poudarki
+  volunteer:           Prostovoljec
+  volunteer_title:     <!--position--> pri <!--organization-->
+  education:           Izobraževanje
+  education_title:     <!--study_type--> v <!--area--> od <!--institution--> z <!--gpa-->
+  courses:             Tečaji
+  awards:              Nagrade
+  awards_title:        <!--title--> od <!--awarder-->
+  publications:        Publikacije
+  publications_title:  <!--name--> od <!--publisher-->
+  references:          Reference
+  languages:           Jeziki
+  fluency:             Tekočnost
+  skills:              Spretnosti
+  level:               Raven
+  interests:           Zanimanja
+  summary:             Povzetek
+  keywords:            Ključne besede
+  print:               Tiskanje
+  download_pdf:        PDF
+  download_vcf:        vCard
+  download_json:       JSON
+  icons:
+    fallback:          icon-link
+    location:          icon-location
+    born:              icon-quill
+    citizenship:       icon-flag
+    maritalStatus:     icon-man-woman
+    email:             icon-envelop
+    phone:             icon-phone
+    website:           icon-home3
+    work:              icon-briefcase
+    volunteer:         icon-earth
+    education:         icon-library
+    awards:            icon-trophy
+    publications:      icon-book
+    references:        icon-quotes-right
+    languages:         icon-bubbles
+    skills:            icon-wrench
+    interests:         icon-heart
