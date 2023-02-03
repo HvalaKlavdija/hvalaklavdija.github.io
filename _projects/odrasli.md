@@ -14,7 +14,6 @@ image:
 links:
   - title: Link
     url: /tecaji/
-sitemap: false
 ---
 
 - Šola smučanja je namenjena tako začetnikom kot tudi smučarjem, ki bi si radi nadgradili smučarsko znanje. 

@@ -5,7 +5,6 @@ image:
   path: /assets/img/blog/stari-vrh_pan.jpeg
 description: >
   Smučišče Stari vrh ki je s svojimi 55 hehtari smučarskih prog na nadmorski višini od 580 m do 1217 m, primerno za vse zahtevnostne ravni smučarjev.
-sitemap: false
 ---
 
 - Table of Contents

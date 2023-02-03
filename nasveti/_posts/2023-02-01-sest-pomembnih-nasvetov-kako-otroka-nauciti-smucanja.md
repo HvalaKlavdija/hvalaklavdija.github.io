@@ -5,7 +5,6 @@ image:
   path: /assets/img/blog/sest.jpg
 description: >
   6 POMEMBNIH NASVETOV, KAKO OTROKA NAUČITI SMUČANJA?
-sitemap: false
 ---
 
 

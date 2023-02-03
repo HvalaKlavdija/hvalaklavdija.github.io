@@ -5,7 +5,6 @@ image:
   path: /assets/img/blog/Stari-Vrh-noc.jpg
 description: >
   Posebnost smučišča Stari Vrh je verjetno najlepša nočna smuka v osrednji Sloveniji, od večjih krajev, Ljubljane, Kranja oddaljena dobrih 40 minut vožnje.
-sitemap: false
 ---
 
 - Table of Contents

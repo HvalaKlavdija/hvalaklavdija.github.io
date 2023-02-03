@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hvala Klavdija!
-sitemap: false
 ---
 
 Verjetno se sprašujete, zakaj se ta spletna stran tako imenuje, a to ime mi je najprej prišlo na misel.

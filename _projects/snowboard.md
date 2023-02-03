@@ -14,7 +14,6 @@ image:
 links:
   - title: Link
     url: /tecaji/
-sitemap: false
 ---
 
 - Deskanje je po statistikah vedno bolj priljubljen šport.

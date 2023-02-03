@@ -5,7 +5,6 @@ image:
   path: /assets/img/blog/deset.jpg
 description: >
   Za vse ljubitelje belih strmin smo tako pripravili 10 nasvetov, s pomočjo katerih lahko zmanjšate nevarnost poškodb, se na smučišče odpravite zdravi, z njega pa se vrnete nepoškodovani.
-sitemap: false
 ---
 
 - Table of Contents

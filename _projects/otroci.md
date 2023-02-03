@@ -14,7 +14,6 @@ image:
 links:
   - title: Link
     url: /tecaji/
-sitemap: false
 ---
 
 
