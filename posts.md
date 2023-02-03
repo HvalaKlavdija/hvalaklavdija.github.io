@@ -2,7 +2,6 @@
 layout: grid
 title: Posts
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  Tukaj lahko najdete različne informacije o vsem, kar je povezano z zdravim načinom življenja. Smučanje, plavanje, svetovanje in tako naprej.
 grouped: true
 ---
