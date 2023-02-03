@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: ŠOLA SMUČANJA
+title: O ŠOLI SMUČANJA
 show_collection: projects
 description: >
   Šola smučanja: discipline in programi. Alpsko smučanje. Deskanje na snegu. Tek na smučeh. Smučanje prostega sloga. Dobro je vedeti. 

@@ -9,7 +9,7 @@ description: >
 
 
 - Table of Contents
-{:toc .large-only}
+{:toc}
 
 ## Kdaj pričeti z učenjem?
 

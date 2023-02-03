@@ -8,7 +8,7 @@ description: >
 ---
 
 - Table of Contents
-{:toc .large-only}
+{:toc}
 
 ## Stari vrh
 

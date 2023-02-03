@@ -6,8 +6,12 @@ hide_description: true
 permalink: /privat-ure/
 ---
 
-- Pri individualnih urah se učitelj prilagodi tempu učenca, saj se učne ure oblikuje glede na želje in potrebe posameznika. Učenje smučanja ali boardanja bo na varen in zabaven način prilagojeno vsakemu otroku posebej, napredek pa bo bistveno hitrejši.
+- Table of Contents
+{:toc}
 
+## O individualnih urah
+
+- Pri individualnih urah se učitelj prilagodi tempu učenca, saj se učne ure oblikuje glede na želje in potrebe posameznika. Učenje smučanja ali boardanja bo na varen in zabaven način prilagojeno vsakemu otroku posebej, napredek pa bo bistveno hitrejši.
 
 - Možen je najem učitelja za alpsko smučanje, snowboard ali smučanje prostega sloga
 - Učenje otrok in odraslih se zaradi različnega pristopa k učenju izvaja ločeno
