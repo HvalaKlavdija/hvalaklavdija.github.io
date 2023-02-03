@@ -10,8 +10,7 @@ slug: nasveti
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Vsem obiskovalcem spletne strani HvalaKlavdija, ki si želijo izboljšati svojo rutino s pomočjo podanih nasvetov.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

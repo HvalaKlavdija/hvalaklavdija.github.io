@@ -10,8 +10,7 @@ slug: stari-vrh
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Stari vrh je smučišče, kjer se nahaja HvalakKavdija, preko objav pa spoznajte čare teh hribov.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
